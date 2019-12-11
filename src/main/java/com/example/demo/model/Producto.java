@@ -31,7 +31,7 @@ public class Producto {
     public Long id;
 
     @NotBlank
-    public String nombre;;
+    public String nombre;
 
     @NotBlank
     @Length(min = 8, max = 10)
