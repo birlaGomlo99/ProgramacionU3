@@ -39,7 +39,7 @@
                 Click on this <strong><a href="next">link</a></strong> to visit another page.
             </header>
 
-            <h1>Trabajadores</h1>
+            <h1>"Trabajadores"</h1>
             <h2>Lista de trabajadores de la empresa</h2>
         
 
