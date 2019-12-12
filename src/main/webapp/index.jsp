@@ -35,19 +35,6 @@
 <div class="container">
     <h1>Productos</h1>
     <h2>Lista de productos</h2>
-
-    <form th:action="{api/productos}" method="POST">
-        <label>Nombre:</label>
-        <br>
-        <input type="text" name="txtNombre">
-        <br>
-        <label>Descripción</label>
-        <br>
-        <input type="text" name="txtDescripcion">
-        <br>
-        <button type="submit">Agregar</button>
-        <br>
-    </form>
     <br><br>
     <div class="starter-template">
         <table class="table table-striped table-hover table-condensed table-bordered">
