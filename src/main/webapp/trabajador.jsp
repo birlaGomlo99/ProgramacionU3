@@ -10,21 +10,21 @@
         <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
     </head>
     <body>
-           <ul class="text-white bg-dark nav nav-pills">
+     <ul class="text-white bg-dark nav nav-pills">
       <li class="nav-item">
-        <a class="nav-link active" href="next">Trabajadores</a>
+        <a class="nav-link active" href="next">Sucursal</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="/">Productos</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link disabled" href="trabajador">Trabajador</a>
+        <a class="nav-link disabled" href="trabajador">trabajador</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="venta">Ventas</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link disabled" href="proveedor">Sucursal</a>
+        <a class="nav-link disabled" href="proveedor">Proveedor</a>
     </li>
 </ul>
     	

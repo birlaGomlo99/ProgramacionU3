@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
 </head>
 <body>
-    <ul class="text-white bg-dark nav nav-pills">
+      <ul class="text-white bg-dark nav nav-pills">
       <li class="nav-item">
         <a class="nav-link active" href="next">Sucursal</a>
     </li>
