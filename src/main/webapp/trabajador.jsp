@@ -18,7 +18,7 @@
         <a class="nav-link" href="/">Productos</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link disabled" href="trabajador">trabajador</a>
+        <a class="nav-link disabled" href="trabajador">Trabajador</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="venta">Ventas</a>
@@ -29,16 +29,6 @@
 </ul>
     	
         <div class="container">
-            <div>
-            <h1>Another page</h1>
-            <h2>Hello ${message}</h2>
-            Click on this <strong><a href="/">link</a></strong> to visit previous page.
-        </div>
-            <header>
-                <h2>${message}</h2>
-                Click on this <strong><a href="next">link</a></strong> to visit another page.
-            </header>
-
             <h1>"Trabajadores"</h1>
             <h2>Lista de trabajadores de la empresa</h2>
         
